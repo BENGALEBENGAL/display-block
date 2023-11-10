@@ -5,7 +5,19 @@
     font-family: Arial;
 }
 
-/* label { 
+label { 
     display: block; 
-    border: 1px solid red; 
-}*/
+    
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    background: black;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: fit-content;
+    border-radius: 10px;
+}
